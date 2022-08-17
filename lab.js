@@ -6,6 +6,13 @@
   If it is not, console log "Coding has its challenges."
 */
 
+let lovesCode = false;
+if (lovesCode === true) {
+  console.log('lovesCode is true')
+} else {
+  console.log('lovesCode is false')
+}
+
 //CODE HERE
 
 // For problems 2-3 use the following lines of code:
